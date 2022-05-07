@@ -44,7 +44,7 @@ $conta = new ContaBancaria(
 0.00// saldo
 );
 
-/* echo $conta->obterSaldo();
+echo $conta->obterSaldo();
 
 echo PHP_EOL;
 
@@ -54,4 +54,4 @@ echo PHP_EOL;
 
 echo $conta->sacar(1300.00);
 
-echo PHP_EOL; */
+echo PHP_EOL; 
